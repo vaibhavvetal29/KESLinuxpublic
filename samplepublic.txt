@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 This is sample public file from my windows machine in file update from linux
-=======
-This is sample public file from my linux machine
-This is sample public file from my linux machine-2
->>>>>>> 1b470466c2ab0141f224045ab4f88bd96df28a17
